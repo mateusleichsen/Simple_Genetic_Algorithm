@@ -1,4 +1,4 @@
-# Simple_Genitic_Algorithm
+# Simple_Genetic_Algorithm
 
 I have built 2 projects.
 The Genetic_OldCode was my effort to create a simple genetic code and I did it to work, with no intention to be a nice code to read (it is ugly as hell!).
